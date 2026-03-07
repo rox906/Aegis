@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AuthPage",
+    "pages/IntroPage",
+    "pages/EditEntryPage",
+    "pages/PreferencesPage",
+    "pages/GroupManagerPage",
+    "pages/AboutPage",
+    "pages/ExportPage"
+  ]
+}
